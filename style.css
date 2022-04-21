@@ -6,6 +6,7 @@
 }
 #myCanvas
 {
+    margin-top: 100px;
     border-width:10px;
     background-color: white; 
     border-style:ridge;
@@ -16,5 +17,5 @@ h3
 	width: 1000px;
 	background-color: white;
 	display: inline-block;
+    font-size: 25px;
 }
-
